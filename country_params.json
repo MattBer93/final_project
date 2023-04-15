@@ -1,0 +1,223 @@
+{
+    "Australia": {
+        "order": [
+            1,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Austria": {
+        "order": [
+            4,
+            0,
+            0
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    },
+    "Belgium": {
+        "order": [
+            1,
+            0,
+            1
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            0,
+            12
+        ]
+    },
+    "Canada": {
+        "order": [
+            1,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    },
+    "Denmark (Europe)": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Estonia": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Finland": {
+        "order": [
+            5,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            2,
+            12
+        ]
+    },
+    "Germany": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Italy": {
+        "order": [
+            1,
+            0,
+            1
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            1,
+            12
+        ]
+    },
+    "Netherlands (Europe)": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "New Zealand": {
+        "order": [
+            2,
+            1,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            1,
+            12
+        ]
+    },
+    "Norway": {
+        "order": [
+            4,
+            0,
+            1
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            1,
+            12
+        ]
+    },
+    "Portugal": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            2,
+            0,
+            1,
+            12
+        ]
+    },
+    "Slovenia": {
+        "order": [
+            2,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    },
+    "South Africa": {
+        "order": [
+            2,
+            1,
+            1
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    },
+    "Sweden": {
+        "order": [
+            3,
+            0,
+            2
+        ],
+        "seasonal_order": [
+            0,
+            0,
+            2,
+            12
+        ]
+    },
+    "Switzerland": {
+        "order": [
+            2,
+            0,
+            1
+        ],
+        "seasonal_order": [
+            1,
+            0,
+            2,
+            12
+        ]
+    }
+}
